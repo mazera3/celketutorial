@@ -23,3 +23,8 @@ Você também verá quaisquer erros de lint no console.
 - git config --get remote.origin.url
 - git remote add origin git@github.com:mazera3/celketutorial.git
 - git push -u origin main
+
+### Instalar as dependências
+- npm install
+
+- yarn start ou npm start
