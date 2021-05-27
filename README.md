@@ -28,3 +28,9 @@ Você também verá quaisquer erros de lint no console.
 - npm install
 
 - yarn start ou npm start
+
+### https://react-bootstrap.github.io/
+- npm install react-bootstrap bootstrap@4.6.0
+
+### https://reactstrap.github.io/
+- npm install --save reactstrap react react-dom

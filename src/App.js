@@ -3,16 +3,14 @@ import Headers from './Headers';
 import Article from './Article';
 import Footer from './Footer';
 
-class App extends React.Component{
-  render(){
-    return (
-      <div>
+  function App (props) {
+  return (
+    <div>
         <Headers />
         <Article />
         <Footer />
-      </div>
-    );
-  }
-}
+    </div>
+  );
+};
 
 export default App;
