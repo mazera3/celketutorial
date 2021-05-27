@@ -34,3 +34,6 @@ Você também verá quaisquer erros de lint no console.
 
 ### https://reactstrap.github.io/
 - npm install --save reactstrap react react-dom
+
+### Modulo para manipular rotas
+-- npm install --save react-router-dom
